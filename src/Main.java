@@ -16,5 +16,7 @@ public class Main {
         for(Object obj : combined){
             System.out.println(obj);
         }
+
+        System.out.println("asd");
     }
 }
